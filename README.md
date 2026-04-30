@@ -1,3 +1,4 @@
+## 📊 Dashboard Preview
 <img width="1038" height="580" alt="Screenshot 2026-04-30 at 7 04 27 PM" src="https://github.com/user-attachments/assets/5674c2cb-7cac-4d0e-8876-3795a4a7fdae" /># 📊 Blinkit Sales Performance Analysis (Power BI)
 
 ## 📌 Project Overview
@@ -31,8 +32,6 @@ The dataset contains information about:
 - ⭐ Average Rating: **3.9**
 
 ---
-## 📊 Dashboard Preview
-<img width="1483" height="548" alt="Astrosage AnalysisDashboard" src="https://github.com/user-attachments/assets/bc487fba-e7a9-4628-86b7-3721c1327a8d" />
 
 ## 📈 Dashboard Features
 - Sales distribution by **Item Type**
